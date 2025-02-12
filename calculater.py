@@ -1,0 +1,1 @@
+print("hello enter three numbers to calculate the avaerage:")
