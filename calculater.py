@@ -7,3 +7,4 @@ sum= (number1 + number2 + number3)
 avarage=int(sum/3 )
 print ("the avarage of the 3 numbers is : " + str(avarage)  )
 
+print ("your are welcom bye bye")
